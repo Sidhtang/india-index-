@@ -36,6 +36,7 @@ Uses a deep learning model suitable for text classification. Options include:
 
 
  PRoject 2
+ Tariff Impact Analysis
  This code implements a deep learning model to predict economic impact based on various factors related to trade and economics. Here's a summary of its workflow:
 
 1. Data Generation:
